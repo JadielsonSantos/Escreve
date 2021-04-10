@@ -9,4 +9,4 @@
 ---
 
 ## Resultado
-[![Watch the video](https://github.com/JadielsonSantos/Escreve/blob/main/img/vi.mp4)
+[Site do projeto](https://jadielsonsantos.github.io/Escreve/)
