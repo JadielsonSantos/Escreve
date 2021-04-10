@@ -9,4 +9,4 @@
 ---
 
 ## Resultado
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/JadielsonSantos/Escreve/blob/main/img/vi.mp4)
